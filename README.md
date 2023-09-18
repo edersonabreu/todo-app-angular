@@ -1,6 +1,6 @@
 # Lista de afazeres com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+Este projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli) na versão 15.2.4.
 
 ## Dicas para instalação
 
